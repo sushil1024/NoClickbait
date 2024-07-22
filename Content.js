@@ -7,10 +7,10 @@ function replaceThumbnails() {
   }
 }
 
-// Initial replacement
+// initial replacement
 replaceThumbnails();
 
-// Set up MutationObserver to detect changes in the DOM
+// initialize mutation observer
 const observer = new MutationObserver((mutations) => {
   mutations.forEach((mutation) => {
     if (mutation.type === 'childList') {
@@ -19,18 +19,8 @@ const observer = new MutationObserver((mutations) => {
   });
 });
 
-// Start observing the document for changes
+// observe for changes
 observer.observe(document.body, {
   childList: true,
   subtree: true,
 });
-
-
-////////////////////////////////////////////
-
-//
-//const imgs = document.getElementsByTagName("img");
-//
-//for (image of imgs) {
-//  image.src = staticImage;
-//}
