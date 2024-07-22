@@ -12,3 +12,6 @@ Goal of this project is to avoid Clickbait on Youtube.
 5. Click on 'Load unpacked' and navigate to the repository directory in your file system.
 6. Select the folder containing the code base. Done!
 
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/fe020e07-19ca-460f-bb0d-062a92921992)
