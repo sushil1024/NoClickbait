@@ -1,7 +1,7 @@
 # NoClickbait Browser Extension
 
 Anti Clickbait Browser Extension that replaces all images on YouTube.com video thumbnail with a static image when enabled.
-Goal of this project is to avoid Clickbait.
+Goal of this project is to avoid Clickbait on Youtube.
 
 # Installation
 
