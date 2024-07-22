@@ -11,3 +11,4 @@ Goal of this project is to avoid Clickbait.
 4. Turn on Developer mode.
 5. Click on 'Load unpacked' and navigate to the repository directory in your file system.
 6. Select the folder containing the code base. Done!
+
